@@ -65,11 +65,12 @@ jupyter notebook sistema_bancario_com_ia.ipynb
 
 ```bash
 📁 sistema-bancario-inteligente/
-├── sistema_bancario_inteligente.ipynb   # Notebook principal
-├── robozinho_consultor.png # Imagem do assistente virtual
-├── README.md # Documentação do projeto
-
+├── sistema_bancario_inteligente.ipynb  # Notebook principal
+├── robozinho_consultor.png             # Imagem do assistente virtual
+├── robozinho_demo.gif                  # GIF do Robô Consultor em ação
+├── README.md                           # Documentação do projeto
 ```
+
 ## 📧 Contato
 
 Desenvolvido por **Lidiane Souza**  
