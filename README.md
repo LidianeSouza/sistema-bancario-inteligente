@@ -42,6 +42,8 @@ Além da proposta original do desafio, este projeto foi enriquecido com várias 
 - Pandas
 - NumPy
 - Plotly
+- ChatGPT — Assistente de IA que auxiliou na estruturação do projeto, dúvidas e sugestões.
+- GitHub Copilot — Assistente de codificação que acelerou a implementação das funcionalidades.
 
 ## ▶️ Como Usar
 
