@@ -24,16 +24,17 @@ Além da proposta original do desafio, este projeto foi enriquecido com várias 
 - Movimentações armazenadas apenas em memória durante a execução.
 - Foco educacional: decisões financeiras reais devem ser feitas com auxílio profissional.
 
-
 ## 🖼️ Demonstração visual
 
 <p align="center">
   <img src="robozinho_consultor.png" alt="Robô Consultor Inteligente" width="250" />
+</p>
 
-## 🖼️ Demonstração em GIF
+## 🎬 Demonstração em GIF
 
-![Demonstração do Robô Consultor](robozinho_demo.gif)
-
+<p align="center">
+  <img src="robozinho_demo.gif" alt="Demonstração do Robô Consultor" width="250" />
+</p>
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -74,5 +75,6 @@ jupyter notebook sistema_bancario_com_ia.ipynb
 ## 📧 Contato
 
 Desenvolvido por **Lidiane Souza**  
-🔗 LinkedIn: linkedin.com/in/lidiane-souza88
+🔗 LinkedIn: [linkedin.com/in/lidiane-souza88](https://linkedin.com/in/lidiane-souza88)
+
 
