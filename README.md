@@ -1,36 +1,52 @@
-# 💸 Sistema Bancário Inteligente com Python
+# 💰 Sistema Bancário com Robô Consultor Inteligente
 
-Este projeto simula um **sistema bancário pessoal** desenvolvido em Python, com foco na **educação financeira assistida por inteligência de dados**.
+Este projeto simula um **sistema bancário interativo** desenvolvido em **Python**, inspirado em um desafio da [DIO (Digital Innovation One)](https://www.dio.me/) no bootcamp de **Backend com Python do Santander**, que propõe a criação de um sistema simples de depósitos, saques e extrato bancário. A proposta original foi expandida com diversas melhorias voltadas à educação financeira, visualização de dados e interação assistida.
 
-## 📌 Objetivo
 
-Criar um sistema funcional de controle financeiro que permita:
-- Depósitos e saques com regras bancárias simples.
-- Visualização de extrato.
-- Análises de gastos e sugestões inteligentes de investimento.
-- Previsão de saldo baseada no histórico.
-- Geração de alertas financeiros automáticos.
+## 🚀 Melhorias implementadas e Funcionalidades
 
-## 🧠 Funcionalidades
+Além da proposta original do desafio, este projeto foi enriquecido com várias melhorias focadas em **educação financeira** e **inteligência de dados**, tendo como grande diferencial o **Robô Consultor Inteligente**.
 
-| Funcionalidade                               | Descrição                                                                 |
-|---------------------------------------------|---------------------------------------------------------------------------|
-| ✅ Depósito e saque                         | Realize operações bancárias básicas com limites de segurança.             |
-| 📋 Extrato                                  | Visualize todas as transações realizadas e saldo atual.                  |
-| 📊 Análise de gastos com categorias         | Identifique onde mais gasta e quais categorias consomem seu orçamento.   |
-| 📈 Previsão de saldo                        | Estimativa de saldo futuro usando regressão linear com histórico diário. |
-| 💡 Sugestão de investimentos               | Divisão inteligente do saldo baseado no perfil e montante disponível.    |
-| 🚨 Alertas financeiros automáticos         | Notificações quando os gastos mensais ultrapassam limites definidos.     |
-| 🖼️ Gráficos interativos e animações       | Painéis visuais com Plotly para facilitar a compreensão.                 |
+| Funcionalidade                      | Descrição |
+|------------------------------------|-----------|
+| 🤖 **Robô Consultor Inteligente**  | Um assistente virtual que aparece na tela apenas quando o usuário aceita investir. Ele simula a aplicação e exibe uma imagem personalizada, tornando a experiência mais interativa e educativa. |
+| 📊 **Gráficos Interativos e Animados** | Visualizações em pizza e barras, com animações temporais por mês e categoria, facilitando a análise de tendências e padrões de gastos. |
+| 📅 **Histórico com Data e Categoria** | Cada movimentação (depósito, saque ou investimento) é registrada com data e categoria, permitindo um controle financeiro detalhado. |
+| 🏷️ **Classificação Inteligente por Categoria** | O usuário pode classificar transações como alimentação, transporte, lazer, entre outras, o que auxilia no acompanhamento dos gastos. |
+| 🧠 **Assistente Financeiro** | Oferece alertas sobre hábitos de consumo, sugestões de economia e simula potenciais ganhos com investimentos baseados no saldo atual. |
+| 💡 **Sugestões de Investimento** | Caso o saldo ultrapasse determinado valor, o sistema sugere uma divisão inteligente entre Tesouro, Fundos e Ações. |
+| 🚨 **Alertas de Gastos Mensais** | O sistema emite avisos automáticos quando os gastos ultrapassam um limite mensal predefinido. |
+| ✅ **Depósitos, Saques e Extrato** | Funções básicas do sistema bancário com validações, limite de saques e extrato com saldo atualizado em tempo real. |
+
+
+## 📌 Observações
+- Sistema simulado para um único usuário.
+- Movimentações armazenadas apenas em memória durante a execução.
+- Foco educacional: decisões financeiras reais devem ser feitas com auxílio profissional.
+
+
+## 🖼️ Demonstração visual
+
+<p align="center">
+  <img src="robozinho_consultor.png" alt="Robô Consultor Inteligente" width="250" />
+  <br><em>Robô Consultor em ação durante simulação de investimento</em>
+</p>
+
+## 🖼️ Demonstração visual
+
+<p align="center">
+  <em>Execução do sistema com o Robô Consultor Inteligente</em><br><br>
+  <img src="execucao_sistema.gif" alt="Demonstração do sistema em funcionamento" width="700"/>
+</p>
+
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Python 3.x
+- Python 3
 - Jupyter Notebook
 - Pandas
 - NumPy
 - Plotly
-- Scikit-learn
 
 ## ▶️ Como Usar
 
@@ -54,29 +70,13 @@ jupyter notebook sistema_bancario_com_ia.ipynb
 
 ```bash
 📁 sistema-bancario-inteligente/
-├── sistema_bancario_com_ia.ipynb   # Notebook principal
-├── README.md                       # Documentação do projeto
+├── sistema_bancario_inteligente.ipynb   # Notebook principal
+├── robozinho_consultor.png # Imagem do assistente virtual
+├── README.md # Documentação do projeto
 
 ```
-## 📌 Observações
-Este projeto simula um único usuário.
-
-As movimentações não são salvas permanentemente (apenas em memória do notebook).
-
-O foco é educativo: decisões financeiras devem ser sempre acompanhadas de orientação profissional.
-
-## 🚀 Melhorias Futuras
-
-Armazenamento em banco de dados (SQLite ou PostgreSQL).
-
-Autenticação de múltiplos usuários.
-
-Exportação de relatórios em PDF.
-
-Dashboard web com Streamlit ou Dash.
-
 ## 📧 Contato
-Desenvolvido por [Seu Nome]
-📬 contato: [seu-email@email.com]
-🔗 GitHub: github.com/seuusuario
+
+Desenvolvido por **Lidiane Souza**  
+🔗 LinkedIn: linkedin.com/in/lidiane-souza88
 
