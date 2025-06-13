@@ -32,12 +32,10 @@ Além da proposta original do desafio, este projeto foi enriquecido com várias 
   <br><em>Robô Consultor em ação durante simulação de investimento</em>
 </p>
 
-## 🖼️ Demonstração visual
 
-<p align="center">
-  <em>Execução do sistema com o Robô Consultor Inteligente</em><br><br>
-  <img src="execucao_sistema.gif" alt="Demonstração do sistema em funcionamento" width="700"/>
-</p>
+## 🖼️ Demonstração em GIF
+
+![Demonstração do Robô Consultor](robozinho_demo.gif)
 
 
 ## 🛠️ Tecnologias Utilizadas
