@@ -29,9 +29,6 @@ Além da proposta original do desafio, este projeto foi enriquecido com várias 
 
 <p align="center">
   <img src="robozinho_consultor.png" alt="Robô Consultor Inteligente" width="250" />
-  <br><em>Robô Consultor em ação durante simulação de investimento</em>
-</p>
-
 
 ## 🖼️ Demonstração em GIF
 
