@@ -1,7 +1,6 @@
 # 💰 Sistema Bancário com Robô Consultor Inteligente
 
-Este projeto simula um **sistema bancário interativo** desenvolvido em **Python**, inspirado em um desafio da [DIO (Digital Innovation One)](https://www.dio.me/) no bootcamp de **Backend com Python do Santander**, que propõe a criação de um sistema simples de depósitos, saques e extrato bancário. A proposta original foi expandida com diversas melhorias voltadas à educação financeira, visualização de dados e interação assistida.
-
+Este projeto simula um **sistema bancário interativo** desenvolvido em **Python**, inspirado em um desafio da [DIO (Digital Innovation One)](https://www.dio.me/) no bootcamp de **Backend com Python do Santander**, que propõe a criação de um sistema simples de depósitos, saques e extrato bancário. 
 
 ## 🚀 Melhorias implementadas e Funcionalidades
 
