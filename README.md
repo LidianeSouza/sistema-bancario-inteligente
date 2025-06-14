@@ -1,10 +1,12 @@
 # 💰 Sistema Bancário com Robô Consultor Inteligente
 
-Este projeto simula um **sistema bancário interativo** desenvolvido em **Python**, inspirado em um desafio da [DIO (Digital Innovation One)](https://www.dio.me/) no bootcamp de **Backend com Python do Santander**, que propõe a criação de um sistema simples de depósitos, saques e extrato bancário. 
+Este projeto apresenta um **sistema bancário interativo** desenvolvido em **Python**, inspirado no desafio da [DIO (Digital Innovation One)](https://www.dio.me/) do bootcamp de **Backend com Python do Santander**. 
+
+O objetivo é criar uma aplicação simples que permite aos usuários realizar operações bancárias essenciais, como **depósitos, saques e consulta de extrato**, de forma intuitiva e eficiente.  
+
+Além da proposta inicial, este projeto foi ampliado com recursos avançados voltados para **educação financeira** e **inteligência de dados**, oferecendo uma experiência enriquecedora. Destacam-se funcionalidades como um **Robô Consultor Inteligente**, gráficos interativos e categorização de transações, permitindo ao usuário uma melhor gestão e tomada de decisão financeira.  
 
 ## 🚀 Melhorias implementadas e Funcionalidades
-
-Além da proposta original do desafio, este projeto foi enriquecido com várias melhorias focadas em **educação financeira** e **inteligência de dados**, tendo como grande diferencial o **Robô Consultor Inteligente**.
 
 | Funcionalidade                      | Descrição |
 |------------------------------------|-----------|
@@ -50,14 +52,14 @@ Além da proposta original do desafio, este projeto foi enriquecido com várias 
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seuusuario/sistema-bancario-inteligente.git
+git clone https://github.com/LidianeSouza/sistema-bancario-inteligente.git
 ```
 
 2. Navegue até o diretório e abra o notebook:
 
 ```bash
 cd sistema-bancario-inteligente
-jupyter notebook sistema_bancario_com_ia.ipynb
+jupyter notebook sistema_bancario_inteligente.ipynb
 ```
 
 3. Execute célula por célula para interagir com o sistema.
