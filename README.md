@@ -1,6 +1,6 @@
 # 💰 Sistema Bancário com Robô Consultor Inteligente
 
-Este projeto apresenta um **sistema bancário interativo** desenvolvido em **Python**, inspirado no desafio da [DIO (Digital Innovation One)](https://www.dio.me/) do bootcamp de **Backend com Python do Santander**. 
+Este projeto apresenta um **sistema bancário interativo** desenvolvido em **Python**, inspirado no desafio da [DIO (Digital Innovation One)](https://www.dio.me/) do bootcamp de **Back-End com Python do Santander**. 
 
 O objetivo é criar uma aplicação simples que permite aos usuários realizar operações bancárias essenciais, como **depósitos, saques e consulta de extrato**, de forma intuitiva e eficiente.  
 
@@ -24,16 +24,9 @@ Além da proposta inicial, este projeto foi ampliado com recursos avançados vol
 
 ---
 
-## 📌 Observações
-- Sistema simulado para um único usuário.
-- Movimentações armazenadas apenas em memória durante a execução.
-- Foco educacional: decisões financeiras reais devem ser feitas com auxílio profissional.
-
----
-
 ## 🖼️ Demonstrações visuais
 
-> **Visualização dos Gráficos:** Clique nas imagens para ampliá-las.
+> 💡 **Dica:** Clique nas imagens para ampliá-las.
 
 | Robô Consultor | Movimentações (Pizza e Barra) | Gráfico por Categorias |
 |:--------------:|:-----------------------------:|:-----------------------:|
@@ -41,7 +34,14 @@ Além da proposta inicial, este projeto foi ampliado com recursos avançados vol
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 📌 Observações
+- Sistema simulado para um único usuário.
+- Movimentações armazenadas apenas em memória durante a execução.
+- Foco educacional: decisões financeiras reais devem ser feitas com auxílio profissional.
+
+---
+
+## 🛠️ Tecnologias e Assistência por IA
 
 - Python 3
 - Jupyter Notebook
@@ -61,14 +61,27 @@ Além da proposta inicial, este projeto foi ampliado com recursos avançados vol
 git clone https://github.com/LidianeSouza/sistema-bancario-inteligente.git
 ```
 
-2. Navegue até o diretório e abra o notebook:
+2. Navegue até o diretório do projeto:
 
 ```bash
 cd sistema-bancario-inteligente
+```
+
+3. Modo 1 — Jupyter Notebook (educacional):
+   Ideal para aprendizado interativo e visualização passo a passo.
+
+```bash
 jupyter notebook sistema_bancario_inteligente.ipynb
 ```
 
-3. Execute célula por célula para interagir com o sistema.
+4. Modo 2 — Execução via terminal com arquivos `.py`:
+
+```bash
+python py/sistema_bancario_inteligente.py
+```
+
+> 💡 O sistema completo pode ser executado diretamente pelo arquivo `sistema_bancario_inteligente.py`.  
+> Os demais arquivos da pasta `py/` contêm partes auxiliares do sistema, utilizadas como suporte e organização do código.
 
 ---
 
